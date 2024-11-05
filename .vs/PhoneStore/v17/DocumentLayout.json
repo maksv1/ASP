@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\source\\repos\\PhoneStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\maks\\source\\repos\\phonestore\\phonestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\maks\\source\\repos\\phonestore\\phonestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\maks\\source\\repos\\phonestore\\phonestore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\maks\\source\\repos\\phonestore\\phonestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\PhoneStore\\PhoneStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\PhoneStore\\PhoneStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhoneStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:54:46.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\PhoneStore\\PhoneStore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PhoneStore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\PhoneStore\\PhoneStore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PhoneStore\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T18:53:33.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\PhoneStore\\PhoneStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhoneStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\PhoneStore\\PhoneStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PhoneStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T18:53:06.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\PhoneStore\\PhoneStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhoneStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\PhoneStore\\PhoneStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PhoneStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T18:52:47.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

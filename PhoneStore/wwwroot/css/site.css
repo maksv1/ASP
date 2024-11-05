@@ -1,0 +1,65 @@
+.banner .card {
+    border: none;
+    height: 200px;
+    overflow: hidden;
+}
+
+.banner .card img {
+    opacity: 0.7;
+    object-fit: cover;
+    width: 100%;
+}
+
+/* Увеличиваем изображения в каталоге */
+.catalog .catalog-icon {
+    max-width: 120px; /* Увеличьте размер изображения, например, до 80px */
+    margin-bottom: 50px;
+}
+
+/* Увеличиваем текст под изображением */
+.catalog p {
+    font-size: 1.2rem; /* Увеличиваем размер текста под изображением */
+}
+
+
+.banner .card-img-overlay {
+    text-align: left; /* Выравнивание текста по левому краю */
+    top: 10%; /* Смещаем блок текста чуть ниже верхней границы */
+    left: 5%; /* Смещаем блок текста чуть правее левой границы */
+    transform: translate(0, 0); /* Сбрасываем центровку по центру */
+    max-width: 60%; /* Ограничиваем ширину текста для лучшего отображения */
+}
+
+.banner .card-title {
+    font-size: 2rem; /* Увеличенный размер заголовка */
+    font-weight: bold;
+}
+
+.banner .card-text {
+    font-size: 1.5rem; /* Увеличенный размер текста */
+    font-weight: normal;
+}
+
+
+
+.banner .card-img-overlay {
+    text-align: left;
+}
+
+.catalog-icon {
+    max-width: 60px;
+    margin-bottom: 10px;
+}
+
+.promotions .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.promotions .card-body {
+    text-align: center;
+}
+
+.promotions .card-title {
+    font-size: 1rem;
+}
